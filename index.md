@@ -20,7 +20,7 @@ Garduation: June 2023
 **COMP 3040**: Technical Communications in Computer Science  
 * We learned about the writing process and applied to common communications and software documentation. Documentation tools used were Markdown and static sit generator Jekyll. Apart from that we learned about ethics in technical communications and how to structure and format professional messages and documents.  
   
-**COMP 3380**: Databases concepts and usage  
+**COMP 3380**: Databases Concepts and Usage  
 * In this course I was introduced to ER models, relational models, relational algebra and SQL. I learned the fundamentals of how a database is created, manipulated and maintained at a high level.  
   
   ## <ins>**Experience**</ins>
