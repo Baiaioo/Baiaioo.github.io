@@ -27,6 +27,6 @@ We learned about the writing process and applied to common communications and so
   ## <ins>**Experience**</ins>
 **Best Buy**: Sales and Warehouse  
 2015 - 2018  
-**New Directions**: Specail Needs respite worker, Home Care Provider  
+**New Directions**: Special Needs respite worker, Home Care Provider  
 **Lids**: Sales and Customization  
 2021 - Present  
