@@ -27,5 +27,6 @@ Garduation: June 2023
 **Best Buy**: Sales and Warehouse  
 2015 - 2018  
 **New Directions**: Special Needs respite worker, Home Care Provider  
+2010-2021
 **Lids**: Sales and Customization  
 2021 - Present  
