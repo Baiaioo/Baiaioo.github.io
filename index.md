@@ -1,7 +1,7 @@
 # Jarett A. Koley
 >Email jarett_k@live.ca  Cell (204) 799-4139
 -----------------------  
-## **Education**
+## <ins>**Education**<'ins>
 **University of Manitoba**: Bachelor of Science, Computer Science  
 Garduation: Jusne 2023  
   
@@ -24,7 +24,7 @@ We learned about the writing process and applied to common communications and so
 **COMP 3380**: Databases concepts and usage  
 * In this course I was introduced to ER models, relational models, relational algebra and SQL. I learned the fundamentals of how a database is created, manipulated and maintained at a high level.  
   
-## **Experience**
+  ## <ins>**Experience**</ins>
 **Best Buy**: Sales and Warehouse  
 2015 - 2018  
 **New Directions**: Specail Needs respite worker, Home Care Provider  
