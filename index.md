@@ -18,7 +18,7 @@ Garduation: June 2023
 * As our term project, I was part of a team of five students tasked to produce a web page to innovate on a more basic idea we researched. We had multiple milestones through the project. As we reached the later milestones team bonding and group work became much stronger. As time pressure grew, we began to make avoidable mistakes. Seeing this, We decided to each take a task and concentrate on making it work bug free. I was responsible for the website layout design and 2 of the 6 major functions.  
   
 **COMP 3040**: Technical Communications in Computer Science  
-* We learned about the writing process and applied to common communications and software documentation. Documentation tools used were Markdown and static sit generator Jekyll. Apart from that we learned about ethics in technical communications and how to structure and format professional messages and documents.  
+* We learned about the writing process and applied it to common communications and software documentation. Documentation tools used were Markdown and static sit generator Jekyll. Apart from that we learned about ethics in technical communications and how to structure and format professional messages and documents.  
   
 **COMP 3380**: Databases Concepts and Usage  
 * In this course I was introduced to ER models, relational models, relational algebra and SQL. I learned the fundamentals of how a database is created, manipulated and maintained at a high level.  
