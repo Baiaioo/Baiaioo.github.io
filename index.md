@@ -1,6 +1,5 @@
 # Jarett A. Koley
->Email jarett_k@live.ca  Cell (204) 799-4139
------------------------  
+>Email jarett_k@live.ca  Cell (204) 799-4139 
 ## <ins>**Education**</ins>  
 **University of Manitoba**: Bachelor of Science, Computer Science  
 Garduation: June 2023  
